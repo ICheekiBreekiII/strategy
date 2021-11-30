@@ -1,7 +1,9 @@
 #include "MallardDuck.h"
 #include "FlyWithWings.h"
 #include "Quack.h"
+#include "iostream"
 
+using namespace std;
 
 MallardDuck::MallardDuck()
 {

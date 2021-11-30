@@ -2,7 +2,9 @@
 #include "MallardDuck.h"
 #include "ModelDuck.h"
 #include "FlyRocketPowered.h"
+#include "iostream"
 
+using namespace std;
 
 int main()
 {
